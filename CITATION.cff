@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "NCQC: Network-Constrained Quality Control for river discharge records (Mackenzie–Liard confluence, 2000–2026)"
+version: 1.1.0
+date-released: 2026-10-25
+license: MIT
+authors:
+  - family-names: Razavi
+    given-names: Hooman
+keywords:
+  - hydrometry
+  - streamflow
+  - quality control
+  - data reliability
+  - mass balance
+  - Mackenzie River
+repository-code: "https://github.com/<github-user>/ncqc-mackenzie-liard"
+abstract: >-
+  Code and data for a network-constrained quality-control framework (NCQC) that
+  uses mass-balance redundancy among hydrometric gauges to detect, attribute and
+  assess inconsistencies in published discharge records, demonstrated for three
+  Water Survey of Canada stations at the Mackenzie–Liard confluence.
